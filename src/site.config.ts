@@ -28,7 +28,7 @@ export const menuLinks: { path: string; title: string }[] = [
   // 修改：改为中文
 	{
 		path: "/",
-		title: "主页",
+		title: "homepage",
 	},
 	{
 		path: "/about/",
